@@ -96,5 +96,9 @@ The dashboard is intended for analytical and portfolio demonstration purposes.
 
 Market indicators are used for contextual analysis and do not imply causation.
 
+## Data Source
 
-Data Set Link : https://www.kaggle.com/datasets/sergionefedov/us-building-materials-sales-transactions-20192024
+The dataset used in this project was obtained from Kaggle.
+
+[View the original dataset on Kaggle](YOUR-KAGGLE-LINK : https://www.kaggle.com/datasets/sergionefedov/us-building-materials-sales-transactions-20192024)
+
